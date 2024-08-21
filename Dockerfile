@@ -1,1 +1,1 @@
-rancher/rancher:stable
+FROM rancher/rancher:stable
